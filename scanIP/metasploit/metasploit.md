@@ -26,7 +26,7 @@ Matching Modules
 
 ## use portscan 
 ```shell
-msf5 > use  auxiliary/scanner/portscan/syn  
+msf5 > use auxiliary/scanner/portscan/syn  
 msf5 auxiliary(scanner/portscan/syn) > info
 
        Name: TCP SYN Port Scanner
