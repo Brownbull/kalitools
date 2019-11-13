@@ -13,6 +13,9 @@
 ```shell
 /etc/init.d/nessusd start
 ```
+Open browser on
+https://kali8834
+
 ## Restart
 ### on linux
 #### FAST
